@@ -12,3 +12,4 @@ pandas>=0.19
 spicy
 scikit-learn==0.22
 imbalanced-learn==0.5
+Cython==0.28.5
